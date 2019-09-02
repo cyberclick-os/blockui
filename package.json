@@ -1,0 +1,19 @@
+{
+  "name": "@cyberclick-os/cyberclick-blockui",
+  "version": "1.0.0",
+  "description": "## Getting Started Download either the [production version][min] or the [development version][max] of BlockUI.",
+  "main": "jquery.blockUI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberclick-os/blockui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberclick-os/blockui/issues"
+  },
+  "homepage": "https://github.com/cyberclick-os/blockui#readme"
+}
